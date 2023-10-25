@@ -11,10 +11,6 @@
   <img alt="github stats" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishigami100&theme=date_night&utcOffset=8" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ishigami100&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 <h3 align="center">Backend engineer from Tokyo</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
